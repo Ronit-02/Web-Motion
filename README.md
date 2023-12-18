@@ -1,2 +1,3 @@
 # Web Motion
-# Practicing different animation styles and trends
+
+Practicing different animation styles and trends
